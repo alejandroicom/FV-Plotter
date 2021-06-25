@@ -1,2 +1,2 @@
 # FV-Plotter
-Graficador de Mensajes CAN 
+Graficador de Mensajes CAN. 

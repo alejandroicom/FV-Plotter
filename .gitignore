@@ -1,0 +1,9 @@
+#Ignore all files on /release folder
+/release
+#Ignore extension files
+*.o
+*.Debug
+*.Release
+*.stash
+*.pro.user*
+*ui_*

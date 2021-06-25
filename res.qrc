@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/icon/Gear.ico</file>
+        <file>Resources/img/logoFix.png</file>
+        <file>Resources/img/logoFix_w.png</file>
+    </qresource>
+</RCC>
